@@ -1,4 +1,4 @@
-# siremas
+# SIREMAS
 
 Aplikasi Resep Masakan Nusantara
 
